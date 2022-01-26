@@ -1,6 +1,6 @@
- # TechBlog
+ # TechBlog 
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/alntruong/TechBlog)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/alntruong/TechBlog)![GitHub last commit (branch)](https://img.shields.io/github/last-commit/alntruong/TechBlog/main)
   
   ## Table of Content
 
