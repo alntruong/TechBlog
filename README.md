@@ -40,7 +40,7 @@
 
   ## Deployed Page
 
-  <a href="https://nameless-chamber-02132.herokuapp.com/login.html" class="btn btn-primary">Deployed Heroku Page</a>
+  <a href="https://tech-blog-heroku-7.herokuapp.com/login.html" class="btn btn-primary">Deployed Heroku Page</a>
 
   ## Questions
 If you have any questions, you may contact using the information below:
