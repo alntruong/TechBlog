@@ -1,7 +1,6 @@
  # TechBlog
 
-https://img.shields.io/github/license/alntruong/TechBlog
-
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/alntruong/TechBlog)
   
   ## Table of Content
 
